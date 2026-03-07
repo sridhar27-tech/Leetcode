@@ -57,6 +57,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lightning4747/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -66,6 +67,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Sliding Window
 |  |
 | ------- |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Tree
 |  |
@@ -92,6 +94,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
 | [0815-champagne-tower](https://github.com/lightning4747/Leetcode/tree/master/0815-champagne-tower) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
