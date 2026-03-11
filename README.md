@@ -21,6 +21,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/lightning4747/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lightning4747/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lightning4747/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0011-container-with-most-water](https://github.com/lightning4747/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lightning4747/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lightning4747/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
