@@ -56,6 +56,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -170,6 +171,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lightning4747/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lightning4747/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -203,9 +205,14 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
