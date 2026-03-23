@@ -38,6 +38,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
@@ -119,6 +120,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
 | [0815-champagne-tower](https://github.com/lightning4747/Leetcode/tree/master/0815-champagne-tower) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
@@ -222,6 +224,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Design
