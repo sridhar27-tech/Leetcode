@@ -41,6 +41,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0238-product-of-array-except-self](https://github.com/lightning4747/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/lightning4747/Leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -139,6 +140,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/lightning4747/Leetcode/tree/master/0792-binary-search) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
