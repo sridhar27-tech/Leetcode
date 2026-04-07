@@ -39,6 +39,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lightning4747/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -67,6 +68,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0075-sort-colors](https://github.com/lightning4747/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -82,6 +84,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -220,6 +223,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Enumeration
 |  |
