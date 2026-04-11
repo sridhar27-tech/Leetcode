@@ -35,6 +35,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0088-merge-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lightning4747/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lightning4747/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/lightning4747/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lightning4747/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/lightning4747/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
@@ -282,6 +284,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lightning4747/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
