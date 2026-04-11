@@ -90,6 +90,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0128-longest-consecutive-sequence](https://github.com/lightning4747/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
@@ -192,6 +193,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0050-powx-n](https://github.com/lightning4747/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -210,6 +212,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lightning4747/Leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
