@@ -50,6 +50,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -79,6 +80,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -100,6 +102,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -361,4 +364,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
