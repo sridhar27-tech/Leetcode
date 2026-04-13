@@ -50,6 +50,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -207,6 +208,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -368,4 +370,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
