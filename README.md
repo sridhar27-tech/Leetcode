@@ -28,6 +28,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/lightning4747/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/lightning4747/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -133,6 +134,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lightning4747/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -319,6 +321,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/lightning4747/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
