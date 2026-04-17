@@ -47,6 +47,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
+| [0682-baseball-game](https://github.com/lightning4747/Leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/lightning4747/Leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -150,6 +151,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0054-spiral-matrix](https://github.com/lightning4747/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/lightning4747/Leetcode/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2178-walking-robot-simulation-ii](https://github.com/lightning4747/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
@@ -313,6 +315,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0020-valid-parentheses](https://github.com/lightning4747/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/lightning4747/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/lightning4747/Leetcode/tree/master/0682-baseball-game) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 ## Prefix Sum
 |  |
