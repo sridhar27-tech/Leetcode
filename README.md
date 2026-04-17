@@ -33,6 +33,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lightning4747/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lightning4747/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lightning4747/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/lightning4747/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -169,6 +171,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
@@ -282,6 +285,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
@@ -337,6 +341,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0054-spiral-matrix](https://github.com/lightning4747/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
