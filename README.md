@@ -67,6 +67,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1447-jump-game-iv](https://github.com/lightning4747/Leetcode/tree/master/1447-jump-game-iv) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/lightning4747/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -143,6 +144,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1447-jump-game-iv](https://github.com/lightning4747/Leetcode/tree/master/1447-jump-game-iv) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/lightning4747/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
@@ -494,6 +496,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Breadth-First Search
 |  |
 | ------- |
+| [1447-jump-game-iv](https://github.com/lightning4747/Leetcode/tree/master/1447-jump-game-iv) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/lightning4747/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
