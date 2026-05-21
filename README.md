@@ -91,6 +91,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3194-find-words-containing-character](https://github.com/lightning4747/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/lightning4747/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -151,6 +152,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2634-minimum-common-value](https://github.com/lightning4747/Leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
@@ -182,6 +184,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lightning4747/Leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/lightning4747/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/lightning4747/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
@@ -508,4 +511,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lightning4747/Leetcode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
