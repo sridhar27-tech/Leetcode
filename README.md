@@ -332,6 +332,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/lightning4747/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0908-middle-of-the-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1972-rotating-the-box](https://github.com/lightning4747/Leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -396,6 +397,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
