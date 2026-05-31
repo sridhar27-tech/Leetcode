@@ -81,6 +81,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lightning4747/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lightning4747/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/lightning4747/Leetcode/tree/master/2634-minimum-common-value) |
@@ -126,6 +127,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1466-jump-game-v](https://github.com/lightning4747/Leetcode/tree/master/1466-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
@@ -287,6 +289,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lightning4747/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
