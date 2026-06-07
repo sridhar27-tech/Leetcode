@@ -83,6 +83,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lightning4747/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/lightning4747/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lightning4747/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/lightning4747/Leetcode/tree/master/2634-minimum-common-value) |
@@ -160,6 +161,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1447-jump-game-iv](https://github.com/lightning4747/Leetcode/tree/master/1447-jump-game-iv) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/lightning4747/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/lightning4747/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2634-minimum-common-value](https://github.com/lightning4747/Leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -233,6 +235,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/lightning4747/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/lightning4747/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
