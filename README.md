@@ -21,6 +21,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0001-two-sum](https://github.com/lightning4747/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lightning4747/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/lightning4747/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -179,6 +180,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lightning4747/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
@@ -558,5 +560,6 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
