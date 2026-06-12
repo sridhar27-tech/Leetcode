@@ -192,6 +192,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lightning4747/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/lightning4747/Leetcode/tree/master/0742-to-lower-case) |
@@ -292,6 +293,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lightning4747/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0804-rotated-digits](https://github.com/lightning4747/Leetcode/tree/master/0804-rotated-digits) |
@@ -370,6 +372,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0234-palindrome-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/lightning4747/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0908-middle-of-the-linked-list) |
