@@ -10,19 +10,42 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        ListNode headClone = null;
+        ListNode tailClone = null;
         ListNode temp = head;
-        List<Integer> arr = new ArrayList<>();
+
         while(temp != null) {
-            arr.add(temp.val);
+            ListNode newNode = new ListNode(temp.val);
+            if(headClone == null) {
+                headClone = newNode;
+                tailClone = newNode;
+            }
+            else {
+                tailClone.next = newNode;
+                tailClone = tailClone.next;
+            }
             temp = temp.next;
         }
-        int low = 0;
-        int high = arr.size() -1;
-        while(low<high) {
-            if(arr.get(low) != arr.get(high)) return false;
-            low++;
-            high--;
+
+        ListNode curr = head;
+        ListNode prev = null;
+
+        while(curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
+
+        curr = prev;
+        ListNode clone = headClone;
+
+        while(curr != null && clone != null) {
+            if(curr.val != clone.val) return false;
+            curr = curr.next;
+            clone = clone.next;
+        }
+
         return true;
     }
 }
