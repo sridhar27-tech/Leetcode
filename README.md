@@ -50,6 +50,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lightning4747/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightning4747/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/lightning4747/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lightning4747/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lightning4747/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -339,6 +340,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0070-climbing-stairs](https://github.com/lightning4747/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/lightning4747/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
@@ -422,6 +424,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lightning4747/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/lightning4747/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
@@ -565,6 +568,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lightning4747/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting Sort
