@@ -62,6 +62,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
+| [0643-maximum-average-subarray-i](https://github.com/lightning4747/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/lightning4747/Leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/lightning4747/Leetcode/tree/master/0792-binary-search) |
@@ -246,6 +247,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0209-minimum-size-subarray-sum](https://github.com/lightning4747/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lightning4747/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/lightning4747/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2001-jump-game-vii](https://github.com/lightning4747/Leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
