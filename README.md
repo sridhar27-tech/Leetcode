@@ -84,6 +84,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lightning4747/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1968-maximum-building-height](https://github.com/lightning4747/Leetcode/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/lightning4747/Leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -142,6 +143,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1466-jump-game-v](https://github.com/lightning4747/Leetcode/tree/master/1466-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1968-maximum-building-height](https://github.com/lightning4747/Leetcode/tree/master/1968-maximum-building-height) |
 | [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
@@ -363,6 +365,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/lightning4747/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
+| [1968-maximum-building-height](https://github.com/lightning4747/Leetcode/tree/master/1968-maximum-building-height) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
