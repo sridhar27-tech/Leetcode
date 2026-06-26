@@ -126,6 +126,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/lightning4747/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/lightning4747/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/lightning4747/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -195,6 +196,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/lightning4747/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/lightning4747/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -433,6 +435,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/lightning4747/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/lightning4747/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/lightning4747/Leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/lightning4747/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -582,6 +586,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/lightning4747/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/lightning4747/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -597,6 +602,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0023-merge-k-sorted-lists](https://github.com/lightning4747/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/lightning4747/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## String Matching
 |  |
 | ------- |
