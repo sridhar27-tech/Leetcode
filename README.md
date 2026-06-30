@@ -187,6 +187,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1297-maximum-number-of-balloons](https://github.com/lightning4747/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1447-jump-game-iv](https://github.com/lightning4747/Leetcode/tree/master/1447-jump-game-iv) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lightning4747/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/lightning4747/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lightning4747/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -228,6 +229,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1274-number-of-days-between-two-dates](https://github.com/lightning4747/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/lightning4747/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lightning4747/Leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lightning4747/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lightning4747/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lightning4747/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/lightning4747/Leetcode/tree/master/2001-jump-game-vii) |
@@ -278,6 +280,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/lightning4747/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/lightning4747/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lightning4747/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lightning4747/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/lightning4747/Leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
